@@ -5,3 +5,5 @@ terraform.tfstate
 .terraform
 logs
 config
+Terraform/terraform.tfstate.backup
+Terraform/.terraform.lock.hcl
