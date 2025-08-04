@@ -1,0 +1,7 @@
+"*.tfstate*
+plugins
+secure
+terraform.tfstate
+.terraform
+logs
+config
